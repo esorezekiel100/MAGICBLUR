@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8f5ff"/>
+      <stop offset="1" stop-color="#e6faf6"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" x2="1">
+      <stop offset="0" stop-color="#6546bc"/>
+      <stop offset="1" stop-color="#35aaa9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="32" fill="url(#bg)"/>
+  <circle cx="980" cy="142" r="248" fill="#d9cef5" opacity=".24"/>
+  <circle cx="1040" cy="492" r="230" fill="#b3e8df" opacity=".22"/>
+  <text x="94" y="156" fill="url(#ink)" font-family="Arial, sans-serif" font-size="35" font-weight="700" letter-spacing="-1">magicblur</text>
+  <text x="94" y="284" fill="#292637" font-family="Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-3">Edit video.</text>
+  <text x="94" y="366" fill="#292637" font-family="Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-3">Hide what matters.</text>
+  <text x="94" y="448" fill="url(#ink)" font-family="Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-3">Nothing leaves your device.</text>
+  <rect x="98" y="500" width="365" height="46" rx="23" fill="#fff" opacity=".83"/>
+  <text x="121" y="529" fill="#5a566b" font-family="Arial, sans-serif" font-size="16" font-weight="600">Private video editing, right in your browser</text>
+</svg>
